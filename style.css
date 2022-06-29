@@ -14,20 +14,20 @@ body {
     height: 170px;
     width: 170px;
     border-radius: 50%;
-    background-color: #ff8800;
-    border: 10px solid #ff8800;
+    background-color: #c7392d;
+    border: 10px solid #c23c30;
     
   }
   
   div {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
+    width: 170px;
+    height: 190px;
+    border-radius: 100%;
     background-color: #fff;
     box-shadow:
       0 0 30px 30px #fff,  /* inner white */
-      0 0 100px 60px rgb(255, 196, 0), /* yellow */
-      0 0 140px 90px rgb(255, 68, 0); /* orangered */
+      0 0 100px 60px #f1f9be, /* yellow */
+      0 0 140px 90px #b74133; /* orangered */
   }
   
   .shadow {
